@@ -1,52 +1,47 @@
-<!-- Profile Header with Animated Avatar & Typing -->
+<!-- Profile Header with Simple Animated Avatar & Typing -->
 <div align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving hand"/>
   
   <h1>
-    Hi there, I'm <a href="https://www.linkedin.com/in/koneti-ajay-babu-69795b28a" target="_blank">Ajay Babu</a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2E9FD9&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;State+Level+Badminton+Player" alt="Typing SVG" />
+    Hi, I'm <a href="https://www.linkedin.com/in/koneti-ajay-babu-69795b28a" target="_blank">Ajay Babu</a>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=2E9FD9&center=true&vCenter=true&repeat=true&width=330&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;State+Level+Badminton+Player" alt="Typing SVG" />
   </h1>
 </div>
 
----
-
-<!-- Animated Rainbow Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9FD9,100:9C27B0&height=60&section=header"/>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://lottie.host/0e4d72b0-6b2d-4ee0-bd3f-0f0e0b8c522e/8nXv5xvRWh.json" width="350"/>
+  <img src="https://lottie.host/0e4d72b0-6b2d-4ee0-bd3f-0f0e0b8c522e/8nXv5xvRWh.json" width="210"/>
 </div>
 
-- 💻 Passionate about **Web Development** (Frontend & Backend)
-- 🤖 Deeply interested in **AI & Machine Learning**
-- 🌐 Love contributing to **Open Source**
-- 🚀 Focused on building **scalable SaaS products**
-- 🏸 **State-level badminton player** 🏆
+- 💻 I enjoy **Web Development** (Frontend & Backend)
+- 🤖 Interested in **AI & Machine Learning**
+- 🌐 Contributor to **Open Source**
+- 🚀 Building **scalable SaaS products**
+- 🏸 **State-level badminton player**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Badges -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nextjs,html,css,tailwind,nodejs,express,spring,mongodb,mysql,postgresql,git,docker,aws,vercel" />
 </p>
 
 ---
 
-## 🌈 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ajaybabu123456&show_icons=true&theme=radical&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybabu123456&layout=compact&theme=radical"/>
-  <br>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=ajaybabu123456&show_icons=true&theme=radical&count_private=true"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybabu123456&layout=compact&theme=radical"/>
+  <br/>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=ajaybabu123456&theme=radical" />
-  <br>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajaybabu123456&theme=react-dark&bg_color=20232a&hide_border=true" />
 </div>
 
 ---
@@ -59,30 +54,28 @@
 
 ---
 
-## ✨ Dynamic Now Playing & Learning
+## 🎵 Now Playing & Learning
 
 <table>
   <tr>
     <td>
-      <!-- Spotify Now Playing Card -->
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s5ph5w4v3u6lq6d6o2w4fj6w3q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
     </td>
     <td>
-      <!-- Animated Learning Card -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2E9FD9&background=00000000&center=true&vCenter=true&repeat=true&width=350&lines=Learning+Advanced+Java;Mastering+DSA;+Machine+Learning+in+Python;Becoming+a+Cloud+Ninja" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2E9FD9&background=00000000&center=true&vCenter=true&repeat=true&width=310&lines=Learning+Advanced+Java;Mastering+DSA;+Machine+Learning+in+Python;Cloud+Engineering" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 💞️ Open to Collaborate On
+## 🤝 Open to Collaborate On
 
 <div align="center">
 
-| 🧩 Web Apps | 🤖 AI/ML | ⚔️ Hackathons | 🌐 OSS |
+| 🧩 Web Apps | 🤖 AI/ML | 🏆 Hackathons | 🌐 OSS |
 |:---:|:---:|:---:|:---:|
-| React/Next.js | TensorFlow, PyTorch | Team Building | Docs & Features |
+| React/Next.js | TensorFlow, PyTorch | Team Projects | Docs & Features |
 | Full-stack | Data Science | Innovation | Bug Fixes |
 
 </div>
@@ -125,7 +118,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <h3>“Code is like humor. When you have to explain it, it’s bad.”</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </div>
